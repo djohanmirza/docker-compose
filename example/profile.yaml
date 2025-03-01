@@ -1,0 +1,17 @@
+firstName: Mirza
+middleName: Avisena
+LastName: Djohan
+
+hobbies:
+  - Coding
+  - Reading
+  - Gaming
+addres:
+  street: Jl. Rawasari Timur IV
+  city: Jakarta
+  country: Indonesia
+wallet:
+  - type: cash
+    amount: 1000000
+  - type: debit
+    amount: 2000000
